@@ -8,7 +8,6 @@ Group: Toys
 URL: http://peoples.mandriva.com/~blino/drakcowsay/
 Requires: drakxtools cowsay
 BuildRequires: xchat-devel
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 %{name} is a graphical interface for cowsay.
