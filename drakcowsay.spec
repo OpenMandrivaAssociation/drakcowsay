@@ -19,7 +19,7 @@ This package also includes drakcowthink, a graphical interface to cowthink.
 
 %package -n xchat-%{name}
 Group: System/Libraries
-Summary: xchat plugin for %{name}
+Summary: Xchat plugin for %{name}
 Requires: xchat
 
 %description -n xchat-%{name}
@@ -27,7 +27,7 @@ xchat-%{name} is a plugin for xchat to cowsay in your current IRC window.
 
 %package -n irssi-%{name}
 Group: System/Libraries
-Summary: irssi plugin for %{name}
+Summary: Irssi plugin for %{name}
 Requires: irssi
 
 %description -n irssi-%{name}
