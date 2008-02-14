@@ -5,6 +5,7 @@ Summary: Graphical interface for cowsay
 Source0: %{name}-%{version}.tar.bz2
 License: GPL
 Group: Toys
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL: http://peoples.mandriva.com/~blino/drakcowsay/
 Requires: drakxtools cowsay
 BuildRequires: xchat-devel
