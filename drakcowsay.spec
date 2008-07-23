@@ -1,6 +1,6 @@
 Name: drakcowsay
 Version: 0.7
-Release: %mkrel 1
+Release: %mkrel 3
 Summary: Graphical interface for cowsay
 Source0: %{name}-%{version}.tar.bz2
 License: GPL
